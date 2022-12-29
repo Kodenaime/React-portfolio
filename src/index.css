@@ -78,7 +78,7 @@ section > p{
 }
 
 a{
-  /* color: var(--color-white); */
+  color: var(--color-white);
   transition: var(--transition);
 }
 
@@ -236,7 +236,7 @@ img{
   }
 
   h4{
-    font-size: 1rem;
+    font-size: 1rem; 
   }
 
   .btn{
